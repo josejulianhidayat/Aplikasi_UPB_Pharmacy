@@ -53,14 +53,6 @@ Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Pemrograman Web 
    * Jika menggunakan CI atau plain PHP:
      Jalankan melalui browser dengan `localhost/apotek`
 
----
-
-## 👨‍🎓 Kontributor
-
-* Nama: \[Nama Lengkap Anda]
-* NIM: \[Nomor Induk Mahasiswa]
-* Kelas: \[Kelas]
-* Dosen Pengampu: \[Nama Dosen]
 
 ---
 
